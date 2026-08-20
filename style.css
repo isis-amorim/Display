@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 8px;
+}
+a {
+    display: inline;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    padding-inline: 25px;
+    padding-bottom: 20px;
+    color: blue;
+}
+h2 {
+    margin-block: 35px;
+}
+li {
+    display: block;
+}
